@@ -106,7 +106,7 @@
     "@rspack/core": "2.0.0",
     "@testing-library/react": "^16.2.0",
     "@vitejs/plugin-react": "^4.3.4",
-    "@vitejs/plugin-rsc": "^0.5.20",
+    "@vitejs/plugin-rsc": "^0.5.26",
     "react-server-dom-rspack": "^0.0.2"
   },
   "peerDependencies": {
