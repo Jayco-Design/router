@@ -21,7 +21,7 @@
     "@tanstack/react-router-devtools": "workspace:^",
     "@tanstack/react-router-ssr-query": "workspace:^",
     "@tanstack/react-start": "workspace:^",
-    "js-cookie": "^3.0.5",
+    "js-cookie": "^3.0.7",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "redaxios": "^0.5.1",
