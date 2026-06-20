@@ -22,7 +22,7 @@
     "@tanstack/react-router-devtools": "workspace:^",
     "@tanstack/react-start": "workspace:^",
     "express": "^5.1.0",
-    "http-proxy-middleware": "^3.0.5",
+    "http-proxy-middleware": "^3.0.7",
     "js-cookie": "^3.0.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
