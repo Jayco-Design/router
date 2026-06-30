@@ -63,7 +63,7 @@
     "node": ">=20.19"
   },
   "dependencies": {
-    "@babel/core": "^7.28.5",
+    "@babel/core": "^7.29.6",
     "@babel/generator": "^7.28.5",
     "@babel/parser": "^7.28.5",
     "@babel/types": "^7.28.5",
