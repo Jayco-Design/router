@@ -16,7 +16,7 @@
     "@tanstack/solid-router": "^1.168.25",
     "@tanstack/solid-router-devtools": "^1.166.13",
     "@tanstack/solid-start": "^1.167.48",
-    "better-auth": "^1.3.27",
+    "better-auth": "^1.6.22",
     "clsx": "^2.1.1",
     "convex": "^1.28.2",
     "convex-solidjs": "^0.0.3",
