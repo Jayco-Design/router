@@ -11,7 +11,7 @@
     "@tailwindcss/postcss": "^4.2.2",
     "@tanstack/react-router": "^1.168.25",
     "@tanstack/react-router-devtools": "^1.166.13",
-    "postcss": "^8.5.1",
+    "postcss": "^8.5.18",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "tailwindcss": "^4.2.2"

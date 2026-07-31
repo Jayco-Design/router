@@ -23,7 +23,7 @@
     "@tailwindcss/postcss": "^4.2.2",
     "@tanstack/router-e2e-utils": "workspace:^",
     "@tanstack/router-plugin": "workspace:^",
-    "postcss": "^8.5.1",
+    "postcss": "^8.5.18",
     "tailwindcss": "^4.2.2",
     "typescript": "^6.0.2"
   }
