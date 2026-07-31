@@ -26,7 +26,7 @@
     "@tanstack/virtual-file-routes": "workspace:^",
     "@types/react": "^19.0.8",
     "@types/react-dom": "^19.0.3",
-    "postcss": "^8.5.1",
+    "postcss": "^8.5.18",
     "tailwindcss": "^4.2.2",
     "typescript": "^6.0.2"
   }
